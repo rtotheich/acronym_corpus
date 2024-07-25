@@ -3,7 +3,7 @@ A test set with 437 parallel term-acronym pairs in French and English for evalua
 
 The file contains the following columns:
 
-**FR_LF**: The long form (LF) technical term in French
-**FR_SF**: The short form (SF) acronym in French
-**EN_LF**: The long form (LF) technical term translation in English
-**EN_SF**: The short form (SF) acronym translation in English
+**FR_LF**: The long form (LF) technical term in French \br
+**FR_SF**: The short form (SF) acronym in French \br
+**EN_LF**: The long form (LF) technical term translation in English \br
+**EN_SF**: The short form (SF) acronym translation in English \br
